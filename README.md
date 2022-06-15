@@ -1,2 +1,2 @@
 # Walacoc
- Proyecto TFG Android
+Para instalar la APK dirigete a app/release
